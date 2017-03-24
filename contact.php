@@ -28,7 +28,7 @@
         </div>
     </div>
 </div>
-<img src="./res/img/yg%20full.jpg" style="height:400px; width:auto;"/>
+<img src="./res/img/yg%2520full.jpg" style="height:auto; width:100%;"/>
 </div>
 <div>
     <div style="display: inline-block">
@@ -50,25 +50,25 @@
 </div>
 <h2 style="color: deeppink; font-family: 'Comic Sans MS';" align="center" >In a Hurry? Start with one of our most popular design, then make it your own...</h2>
 <div>
-    <div style="display: inline-block; width: 24%;">
+    <div style="display: inline-block; width: 24%; vertical-align: top;">
         <h3>Products and Prices</h3>
         <?php
         append(unorderedList("Corporate Solutions,Corporate Business Card System,Multi-site Business System,Stationary,Envelopers-blank form,Business Stationary form,Report Covers & Docoment Corners form,Business forms form,NCR form,Envelopes-printed form,Rulers & Paper Clips form,Posters & Exhibitions,Exhibition & Display Stands form,Posters-Large Format(1+)form,Frames for posters form,Banners PVC form,Canvas prints & Frames form,Flags & Accessories form,Banner stands -Roller form,Signs & Lightboxes form,Litho Posters(50+)form"))
         ?>
     </div>
-    <div style="display: inline-block; width: 24%;">
+    <div style="display: inline-block; width: 24%; vertical-align: top;">
         <h3>Leaflets</h3>
         <?php
         append(unorderedList("Leaflets form,Leaflets-folded form,Leaflets-perforates form,Showcards / Thick Flyers form,Postcards form,Invites & Greetings,Invitations form ,Greeting Cards form,Vouchers cards form,Hospitality & Retail,Hospitality Solutions form,Laser Voucher Sheets form,Swing Tickets & Tags form,Menus & Tent Cards form,Wobblers form,Laser Price Lists form,Pads & Note Blocks,Notepads from 94peach,Sticky Notes & Memo Pads form 81peach"))
         ?>
     </div>
-    <div style="display: inline-block; width: 24%;">
+    <div style="display: inline-block; width: 24%; vertical-align: top;">
         <h3>Business Cards</h3>
         <?php
         append(unorderedList("Business Cards form,Credit Cards form,Flyers form,Bookmarks form,Flyers-Folded form,Booklets,Booklet Covers form,Booklets-Digital form,Booklets-A6 form,Booklets-1/3rd A4 form,Booklets-Square form,Booklets-A5 form,Booklets-Wide form,Booklets-A4 form,Voucher Booklets form,Folders form,CD/DVD/Video Packing form,Inserts for Folders form"))
         ?>
     </div>
-    <div style="display: inline-block; width: 24%;">
+    <div style="display: inline-block; width: 24%; vertical-align: top">
         <h3>Hospitality and Retail</h3>
         <?php
         append(unorderedList(",Hospitality Solutions form,Laser Voucher Sheets form,Swing Tickets & Tags Form,Menus & Tent Crds form,Wobblers form,Laser Price Lists form,Pads & Note Blocks,Notepads form 94peach,Sticky Notes & Memo Pads form 81peach,Giveaway Gifts,Mouse Mats,Coasters & Desk Tidle form 90peach,Trophies & Awards form,Keyrings-Bottle Openers & Ice Scrapers form,53peach,Case Card Portfolios form,Wine,Champagne & Water,Wine.Champagne & Water form"))
