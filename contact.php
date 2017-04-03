@@ -17,7 +17,7 @@
             <form style="display: inline-block">
                 <input type="text" style="display: inline-block; color: grey" value="Search Yukti Graphics" />
                 <button style="display: inline-block">Search</button>
-                <a href="#" style="display: inline-block">Sign In/Sign Up</a>
+                <a href="./add.php" style="display: inline-block">Sign In/Sign Up</a>
             </form>
         </div>
         <div>
