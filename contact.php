@@ -22,7 +22,7 @@
         </div>
         <div>
             <div style="display: inline-block; color: white; background-color: dodgerblue; margin: 10px; padding: 5px;">CHOOSE A DESIGN</div>
-            <div style="display: inline-block; color: white; background-color: deeppink;margin: 10px; padding: 5px;">PRODUCTS AND PRICES</div>
+            <a href="product.php"><div style="display: inline-block; color: white; background-color: deeppink;margin: 10px; padding: 5px;">PRODUCTS AND PRICES</div></a>
             <div style="display: inline-block; color: black; background-color: yellow; margin: 10px;padding: 5px;">FIND A STUDIO</div>
             <div style="display: inline-block;"><b>CALL US ON : 9958127127</b></div>
         </div>
